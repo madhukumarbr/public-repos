@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The Contiki Operating System
 ============================
 
@@ -17,3 +18,7 @@ and so on.
 For more information, see the Contiki website:
 
 [http://contiki-os.org](http://contiki-os.org)
+=======
+# public-repos
+Rust-Contiki implementation of a security protocol in Rust for Contiki OS
+>>>>>>> 2a4a484548313e3794b0ccf66c93f490f2a1fda2
