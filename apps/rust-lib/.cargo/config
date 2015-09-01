@@ -1,0 +1,7 @@
+title = "TOML Example"
+
+[target.i686-unknown-linux-gnu.contiki]
+rustc-link-search = ["/media/data/repo/new-test/contiki/contiki/apps/rust-lib"]
+rustc-link-lib = ["contiki"]
+root = "/media/data/repo/new-test/contiki/contiki/apps/rust-lib"
+key = "static"
